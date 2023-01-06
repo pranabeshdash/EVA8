@@ -6,6 +6,8 @@ A random number between 0 and 9, (say 7)
 and gives two outputs:
 The "number" that was represented by the MNIST image (predict 5), and The "sum" of this number with the random number and the input image to the network (predict 5 + 7 = 12)
 
+![image](https://user-images.githubusercontent.com/15637770/211095063-934b1bfe-4128-4467-b493-0ec36dbfd73f.png)
+
 #Training log
 Epoch 1 : 
 Train set: Average loss: 1.0943
